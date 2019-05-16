@@ -1,0 +1,3 @@
+- Ubuntu 16.04
+- With toolset, system ruby and different shells
+- With users: root:root and user:user
